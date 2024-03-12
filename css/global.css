@@ -1,0 +1,30 @@
+* {
+    margin: 0%;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Josefin Sans";
+}
+
+:root {
+    --background:#FEFAE0;
+    --header: #FAEDCD;
+    --letter: #000000;
+    --hover: #816E41;
+    --icons: #af9a68;
+    --line: #C0B394;
+    --destaque: #9A7653;
+}
+
+::-webkit-scrollbar {
+    width: 6px;
+    height: 4px;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #e4d1a6; 
+    border-radius: 4px; 
+}
+
+::-webkit-scrollbar-track {
+    background-color: #fff; 
+}
