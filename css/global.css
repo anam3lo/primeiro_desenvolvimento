@@ -25,6 +25,10 @@
     border-radius: 4px; 
 }
 
+::-webkit-scrollbar-thumb:hover {
+    background-color: #cab889;
+}
+
 ::-webkit-scrollbar-track {
     background-color: #fff; 
 }

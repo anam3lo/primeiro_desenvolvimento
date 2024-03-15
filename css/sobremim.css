@@ -70,6 +70,11 @@ header ul li a:hover{
     color: var(--hover);
 }
 
+header ul li a.selected,
+header ul li a:hover{
+    color: var(--hover);
+}
+
 /*page1*/
 main {
     height: 100%;
